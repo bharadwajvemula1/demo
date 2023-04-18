@@ -1,0 +1,71 @@
+.container {
+    display: flex;
+   
+}
+
+.box1 {
+    flex-basis: initial;
+    height: 200px;
+    width: 200px;
+    background-color: black;
+    margin: 5px;
+    cursor: pointer;
+}
+
+.box2 {
+
+    flex-basis: initial;
+    height: 200px;
+    width: 200px;
+    background-color: red;
+    margin: 5px;
+}
+
+.box3 {
+    flex-basis: initial;
+    height: 200px;
+    width: 200px;
+    background-color: blue;
+    margin: 5px;
+}
+
+.box4 {
+    flex-basis: initial;
+    height: 200px;
+    width: 200px;
+    background-color: bisque;
+    margin: 5px;
+}
+
+.box5 {
+    flex-basis: initial;
+    height: 200px;
+    width: 200px;
+    background-color: aquamarine;
+    margin: 5px;
+}
+
+.box6 {
+    flex-basis: initial;
+    height: 200px;
+    width: 200px;
+    background-color: rgb(226, 62, 62);
+    margin: 5px;
+}
+
+.box7 {
+    flex-basis: initial;
+    height: 200px;
+    width: 200px;
+    max-width: 100%;
+    margin: 5px;
+
+}
+
+.box8 {
+    flex-basis: initial;
+    height: 200px;
+    width: 200px;
+
+    margin: 5px;
+}
